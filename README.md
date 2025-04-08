@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=pavan-ak1&label=Profile%20views&color=0e75b6&style=flat" alt="pavan-ak1" />
 </p>
 
-- 🌱 I’m currently learning **Node.js**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/pavan-ak1)
-- 📫 How to reach me: **kustagipavan30@gmail.com**
+- 🌱 I’m currently learning **Node.js**  
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/pavan-ak1)  
+- 📫 How to reach me: **kustagipavan30@gmail.com**  
 - 📄 View my portfolio at [portfolio-pavan-ak1.netlify.app](https://portfolio-pavan-ak1.netlify.app/)
 
 ---
@@ -47,18 +47,19 @@
 
 ---
 
+<h3 align="center">📊 GitHub Stats</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan-ak1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="Pavan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavan-ak1/pavan-ak1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavan-ak1/pavan-ak1/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/pavan-ak1/pavan-ak1/output/pacman-contribution-graph.svg">
-</picture>
+<!-- Optional GitHub Streak -->
+<!--
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-ak1&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+</div>
+-->
 
 ---
 
@@ -69,8 +70,3 @@
 ---
 
 🌍 Hello, World! I’m on a mission to build robust backend systems and scalable APIs.
-
----
-
-<img src="https://raw.githubusercontent.com/pavan-ak1/pavan-ak1/output/snake.svg" alt="Snake animation" />
-
