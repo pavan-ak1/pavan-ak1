@@ -62,8 +62,6 @@
 
 ---
 
-### 🟡 Pacman Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavan-ak1/pavan-ak1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pavan-ak1/pavan-ak1/output/pacman-contribution-graph.svg">
@@ -80,4 +78,3 @@
 
 ---
 
-<p align="center">🌍 Hello, World! I’m on a mission to build robust backend systems and scalable APIs.</p>
