@@ -60,9 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
 </div>
 
----
-
-
 ### 💻 Keep Learning, Keep Building!
 
 <div align="center">
@@ -70,7 +67,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Activity Graph
-[![Pavan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pavan-ak1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
