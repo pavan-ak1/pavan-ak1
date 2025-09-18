@@ -53,12 +53,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="Pavan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
-</div>
 
 ### 💻 Keep Learning, Keep Building!
 
