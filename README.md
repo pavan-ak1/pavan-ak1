@@ -1,7 +1,5 @@
 # Hi 👋, I'm Pavan A Kustagi
 
-### An experienced Javascript developer
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-ak1&label=Profile views&color=0e75b6&style=flat" alt="pavan-ak1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan-ak1" alt="pavan-ak1" /></a> </p>
@@ -18,9 +16,9 @@
 
 - ⚡ Fun fact **I am Rookie**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio-pavan-ak1.netlify.app/](https://portfolio-pavan-ak1.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio-pavan-ak1.netlify.app/)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1cqsOIdA7zVxfUFW4bbLBd1NqEVE5329H/edit?usp=sharing&ouid=118003268077972577894&rtpof=true&sd=true](https://docs.google.com/document/d/1cqsOIdA7zVxfUFW4bbLBd1NqEVE5329H/edit?usp=sharing&ouid=118003268077972577894&rtpof=true&sd=true)**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1cqsOIdA7zVxfUFW4bbLBd1NqEVE5329H/edit?usp=sharing&ouid=118003268077972577894&rtpof=true&sd=true)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
