@@ -1,48 +1,74 @@
-# Hi 👋, I'm Pavan A Kustagi
+<h1 align="center">Hi 👋, I'm Pavan A Kustagi</h1>
+<h3 align="center">Full Stack Developer • GenAI Enthusiast • Open Source Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavan-ak1&label=Profile views&color=0e75b6&style=flat" alt="pavan-ak1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan-ak1" alt="pavan-ak1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Pavan_Kustagi" target="blank"><img src="https://img.shields.io/twitter/follow/Pavan_Kustagi?logo=twitter&style=for-the-badge" alt="Pavan_Kustagi" /></a> </p>
-
-- 🌱 I'm currently learning **Node js and Gen AI**
-
-- 👯 I'm looking to collaborate on **Open source projects**
-
-- 💬 Ask me about **Node js, Gen AI, MERN, NEXT js , Databases**
-
-- 📫 How to reach me **kustagipavan30@gmail.com**
-
-- ⚡ Fun fact **I am Rookie**
-
-- 👨‍💻 All of my projects are available at **[Portfolio](https://portfolio-pavan-ak1.netlify.app/)**
-
-- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1cqsOIdA7zVxfUFW4bbLBd1NqEVE5329H/edit?usp=sharing&ouid=118003268077972577894&rtpof=true&sd=true)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/pavan-ak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pavan-ak1" height="30" width="40" /></a>
-<a href="https://dev.to/pavan-ak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pavan-ak1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pavan-a-kustagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-a-kustagi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pavan-a-kustagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pavan-a-kustagi" height="30" width="40" /></a>
-<a href="https://kaggle.com/pavanakustagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pavanakustagi" height="30" width="40" /></a>
-<a href="https://fb.com/pavan.kustagi.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavan.kustagi.98" height="30" width="40" /></a>
-<a href="https://instagram.com/_pavan02._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pavan02._" height="30" width="40" /></a>
-<a href="https://twitter.com/Pavan_Kustagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Pavan_Kustagi" height="30" width="40" /></a>
-<a href="https://medium.com/@kustagipavan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kustagipavan30" height="30" width="40" /></a>
-<a href="https://codechef.com/users/pavan_ak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="pavan_ak1" height="30" width="40" /></a>
-<a href="https://hackerrank.com/kustagipavan30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kustagipavan30" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Pavan-Ak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Pavan-Ak1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kustagip6y43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kustagip6y43" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavan-ak1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan-ak1&show_icons=true&locale=en&layout=compact" alt="pavan-ak1" /></p>
+## 👨‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&locale=en" alt="pavan-ak1" /></p>
+<p align="center">
+I’m a passionate developer who enjoys building scalable backend systems,  
+experimenting with GenAI, and contributing to impactful open-source projects.
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-ak1" alt="pavan-ak1" /></p>
+- 🌱 Currently learning **Node.js, GenAI & System Design**
+- 👯 Open to collaborating on **Open Source & AI-driven projects**
+- 💬 Ask me about **Node.js, MERN, Next.js, Databases, GenAI**
+- ⚡ Fun fact: *Every expert starts as a rookie*
 
+---
+
+## 🔗 Quick Links  
+
+<p align="center">
+  👨‍💻 <a href="https://portfolio-pavan-ak1.netlify.app/">Portfolio</a> •
+  📄 <a href="https://docs.google.com/document/d/1cqsOIdA7zVxfUFW4bbLBd1NqEVE5329H/edit">Resume</a> •
+  📫 <a href="mailto:kustagipavan30@gmail.com">Email</a>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+<a href="https://github.com/pavan-ak1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/></a>
+<a href="https://linkedin.com/in/pavan-a-kustagi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/></a>
+<a href="https://twitter.com/Pavan_Kustagi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/></a>
+<a href="https://dev.to/pavan-ak1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="35"/></a>
+<a href="https://medium.com/@kustagipavan30"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,c,cpp" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,aws,gcp,linux" /><br/>
+<img src="https://skillicons.dev/icons?i=git,postman,tailwind,fastapi,anaconda" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-ak1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+⭐ Always learning • Always building • Always improving
+</p>
