@@ -2,7 +2,8 @@
 <h3 align="center">Full Stack Developer • GenAI Enthusiast • Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavan-ak1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/pavan-ak1?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/pavan-ak1?label=Total%20Stars&style=for-the-badge" />
 </p>
 
 ---
@@ -11,7 +12,7 @@
 
 <p align="center">
 I’m a passionate developer who enjoys building scalable backend systems,  
-experimenting with GenAI, and contributing to impactful open-source projects.
+experimenting with Generative AI, and contributing to impactful open-source projects.
 </p>
 
 - 🌱 Currently learning **Node.js, GenAI & System Design**
@@ -34,11 +35,21 @@ experimenting with GenAI, and contributing to impactful open-source projects.
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://github.com/pavan-ak1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/></a>
-<a href="https://linkedin.com/in/pavan-a-kustagi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/></a>
-<a href="https://twitter.com/Pavan_Kustagi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/></a>
-<a href="https://dev.to/pavan-ak1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="35"/></a>
-<a href="https://medium.com/@kustagipavan30"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/></a>
+  <a href="https://github.com/pavan-ak1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+  </a>
+  <a href="https://linkedin.com/in/pavan-a-kustagi">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+  </a>
+  <a href="https://twitter.com/Pavan_Kustagi">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
+  </a>
+  <a href="https://dev.to/pavan-ak1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="35"/>
+  </a>
+  <a href="https://medium.com/@kustagipavan30">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="35"/>
+  </a>
 </p>
 
 ---
@@ -46,9 +57,15 @@ experimenting with GenAI, and contributing to impactful open-source projects.
 ## 🛠️ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,c,cpp" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,aws,gcp,linux" /><br/>
-<img src="https://skillicons.dev/icons?i=git,postman,tailwind,fastapi,anaconda" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,python,java,c,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,docker,aws,gcp,linux" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,tailwind,fastapi,anaconda" />
 </p>
 
 ---
@@ -56,16 +73,27 @@ experimenting with GenAI, and contributing to impactful open-source projects.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-ak1&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 🚀 What I’m Working On  
+
+- 🔹 Full-stack applications using **MERN & Next.js**
+- 🔹 AI-powered tools using **GenAI & LLMs**
+- 🔹 Scalable backend systems with **Node.js & Databases**
+- 🔹 Open-source contributions
 
 ---
 
