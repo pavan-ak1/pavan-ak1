@@ -90,10 +90,10 @@ experimenting with Generative AI, and contributing to impactful open-source proj
 
 ## 🚀 What I’m Working On  
 
-- 🔹 Full-stack applications using **MERN & Next.js**
-- 🔹 AI-powered tools using **GenAI & LLMs**
-- 🔹 Scalable backend systems with **Node.js & Databases**
-- 🔹 Open-source contributions
+-  Full-stack applications using **MERN & Next.js**
+-  AI-powered tools using **GenAI & LLMs**
+-  Scalable backend systems with **Node.js & Databases**
+-  Open-source contributions
 
 ---
 
