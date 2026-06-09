@@ -64,23 +64,7 @@ experimenting with Generative AI, and contributing to impactful open-source proj
   <img src="https://skillicons.dev/icons?i=git,postman,tailwind,fastapi,anaconda" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=pavan-ak1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-ak1&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-  />
-</p>
 
 ---
 
