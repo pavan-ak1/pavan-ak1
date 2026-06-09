@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan A Kustagi</h1>
 <h3 align="center">Full Stack Developer • GenAI Enthusiast • Open Source Learner</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pavan-ak1?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/pavan-ak1?label=Total%20Stars&style=for-the-badge" />
-</p>
 
 ---
 
